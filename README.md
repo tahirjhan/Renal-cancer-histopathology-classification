@@ -1,1 +1,1 @@
-# Renal-cancer-histopathology-classification
+# RCG-Net

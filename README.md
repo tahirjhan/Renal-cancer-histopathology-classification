@@ -11,3 +11,5 @@ To reproduce the results, download the datasets, set the `config.py` file, and r
 
 For testing, run the `test.py` file.
 
+RCG trained models can be accessed via the [LINK](https://www.dropbox.com/scl/fo/z76bqh43iel1ie9vdndc2/AAku5cQsdMZJM88yUCj9Y2k?rlkey=y4i64zpikzh21raueuqx9obbt&dl=0)
+
